@@ -13,7 +13,7 @@ Joined Github **1** years ago.
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sky3w0dy)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/v3_sky/)
   
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=Its-Sn1p3r&theme=darcula&hide_border=true&background=FFFFFF00"> <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/Its-Sn1p3r/Its-Sn1p3r/master/coder1.gif" />
+<img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/Its-Sn1p3r/Its-Sn1p3r/master/coder1.gif" />
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
