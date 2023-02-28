@@ -12,7 +12,7 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
 
 Joined Github **1** years ago.
   
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=Its-Sn1p3r&theme=darcula&hide_border=true&background=FFFFFF00"> <img align="right" height="270" width="390" alt="" src="https://raw.githubusercontent.com/Its-Sn1p3r/Its-Sn1p3r/master/coder1.gif" />
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=Its-Sn1p3r&theme=darcula&hide_border=true&background=FFFFFF00"> <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/Its-Sn1p3r/Its-Sn1p3r/master/coder1.gif" />
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
