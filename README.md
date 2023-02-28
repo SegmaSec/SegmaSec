@@ -11,11 +11,10 @@
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
 
 Joined Github **1** years ago.
-
-<p align="center">  
+  
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=Its-Sn1p3r&theme=darcula&hide_border=true&background=FFFFFF00">
-### My Absolute Favorites:
 
+### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
