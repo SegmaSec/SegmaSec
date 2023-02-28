@@ -18,24 +18,11 @@ Joined Github **1** years ago.
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-</p>
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=Its-Sn1p3r&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=Its-Sn1p3r&repo=pixel-weather">
-</p> -->
+### Talking about Personal Stuffs:
+- 🛠 &nbsp; I’m currently working with Python, Linux, Powershell, Windows etc.
+- 🚀 &nbsp; I’m currently learning Offensive Security.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Its-Sn1p3r).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/V3-Sky/My-Profil/issues/1#issue-1586137478)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
