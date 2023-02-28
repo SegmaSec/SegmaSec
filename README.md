@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Its-Sn1p3r!!](https://github.com/Its-Sn1p3r/)
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Its-Sn1p3r&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Sn1p3r&layout=compact&hide_border=true&theme=darcula&bg_color=0b5345 &langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Sn1p3r&layout=compact&hide_border=true&theme=darcula&bg_color=00000000 &langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Its-Sn1p3r&theme=darcula&hide_border=true&background=FFFFFF00">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/V3-Sky)
