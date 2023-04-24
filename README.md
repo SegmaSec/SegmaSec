@@ -9,9 +9,9 @@ Joined Github **1** years ago.
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Sn1p3r&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/V3-Sky)
-[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/@sky3w0dy?style=social)](https://youtu.be/b3lMKgqMOTA)
+[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/@Onyx_Code?style=social)](https://youtu.be/CcNAI0ytao4)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sky3w0dy)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/v3_sky/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/Its-sn1p3r/)
   
 <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/Its-Sn1p3r/Its-Sn1p3r/master/coder1.gif" />
 
