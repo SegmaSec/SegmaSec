@@ -3,7 +3,7 @@
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=Its-Sn1p3r&label=Profile%20views&color=0e75b6&style=flat" alt="Its-Sn1p3r" /> </p>
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
 
-<h3 color="equal">Joined Github **1** years ago.,/<h3>
+<h3 style="color:DodgerBlue;">Joined Github **1** years ago.,/<h3>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Its-Sn1p3r&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Sn1p3r&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
