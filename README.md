@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Its-Sn1p3r!!](https://github.com/Its-Sn1p3r/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=V3-Sky.V3-Skyi&style=flat-square&color=0088cc)
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=Its-Sn1p3r&label=Profile%20views&color=0e75b6&style=flat" alt="Its-Sn1p3r" /> </p>
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
 
 Joined Github **1** years ago.
