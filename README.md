@@ -9,7 +9,7 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
   <a href = "mailto:elmehdichbani9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elmehdi-chbani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+</br>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Its-Sn1p3r&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Sn1p3r&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -22,3 +22,15 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+### My Absolute Favorites:
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+
+### Talking about Personal Stuffs:
+- 🛠 &nbsp; I’m currently working with Python, Linux, Powershell, Windows etc.
+- 🚀 &nbsp; I’m currently learning Offensive Security.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Its-Sn1p3r).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/Its-Sn1p3r/My-Profil/issues/1#issue-1586137478)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
