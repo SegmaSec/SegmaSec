@@ -32,5 +32,4 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
 - 🛠 &nbsp; I’m currently working with Python, Linux, Powershell, Windows etc.
 - 🚀 &nbsp; I’m currently learning Offensive Security.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Its-Sn1p3r).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/Its-Sn1p3r/Its-Sn1p3r/issues/1#issue-1586137478)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
