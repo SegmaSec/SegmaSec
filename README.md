@@ -2,7 +2,7 @@
 
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
 
-(https://img.shields.io/github/followers/{Its-Sn1p3r}.svg?style=social&label=Follow&maxAge=2592000)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Sn1p3r&theme=blue-green
 ##
 <div> 
   <a href="https://www.youtube.com/@Onyx_Code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
