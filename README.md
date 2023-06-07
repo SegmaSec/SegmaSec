@@ -1,5 +1,4 @@
-## Hey 👋, I'm [Its-Sn1p3r!!](https://github.com/Its-Sn1p3r/)    <img align=center alt="GitHub followers" src="https://img.shields.io/github/followers/Its-Sn1p3r?label=Followers&style=social">
-
+## Hey 👋, I'm [Its-Sn1p3r!!](https://github.com/Its-Sn1p3r/) 
 
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
 
@@ -9,6 +8,7 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:elmehdichbani9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elmehdi-chbani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align=center alt="GitHub followers" src="https://img.shields.io/github/followers/Its-Sn1p3r?label=Followers&style=social">
 </div>
 </br>
 <p align="center">
