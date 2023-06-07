@@ -1,9 +1,8 @@
 ## Hey 👋, I'm [Its-Sn1p3r!!](https://github.com/Its-Sn1p3r/)
 
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
+<img align=center alt="GitHub followers" src="https://img.shields.io/github/followers/Its-Sn1p3r?label=Followers&style=social">
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Its-Sn1p3r?label=Followers&style=social">
-##
 <div> 
   <a href="https://www.youtube.com/@Onyx_Code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/its_uz1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
