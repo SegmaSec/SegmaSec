@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Its-Sn1p3r</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, Hi 👋, I'm Its-Sn1p3r. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
 
