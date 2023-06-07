@@ -1,30 +1,26 @@
-## Hey 👋, I'm [Its-Sn1p3r!!](https://github.com/Its-Sn1p3r/)
+## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=V3-Sky.V3-Skyi&style=flat-square&color=0088cc)
-I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
+Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
-Joined Github **1** years ago.
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Its-Sn1p3r&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Sn1p3r&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/V3-Sky)
-[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/@Onyx_Code?style=social)](https://youtu.be/CcNAI0ytao4)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sky3w0dy)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/Its-sn1p3r/)
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-<img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/Its-Sn1p3r/Its-Sn1p3r/master/coder1.gif" />
-
-
-### My Absolute Favorites:
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-
-### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working with Python, Linux, Powershell, Windows etc.
-- 🚀 &nbsp; I’m currently learning Offensive Security.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Its-Sn1p3r).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/V3-Sky/My-Profil/issues/1#issue-1586137478)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-
+</div>
