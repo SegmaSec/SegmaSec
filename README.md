@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Its-Sn1p3r!!](https://github.com/Its-Sn1p3r/) 
+## Hey 👋, I'm [SegmaSec!!](https://its-sn1p3r.github.io/SegmaSec/) 
 
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
 <div> 
