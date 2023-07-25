@@ -10,8 +10,8 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
 </div>
 </br>
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Its-Sn1p3r&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Sn1p3r&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api?username=SegmaSec&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SegmaSec&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,5 +32,5 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
 ### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with Python, Linux, Powershell, Windows etc.
 - 🚀 &nbsp; I’m currently learning Offensive Security.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Its-Sn1p3r).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SegmaSec).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
