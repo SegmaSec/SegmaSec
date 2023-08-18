@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7ED&position=center&width=550&lines=Hi+im+Segma+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=f034fd&width=435&lines=-------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BSegmaSec%5D+profile;SegmaSec@Arch+~%24+{cat,root.txt};{SW0gTm90IEhhY2tlciwgSnVzdCBIYXJkIFdvcmsK};..............................;............H4CK3D!............;..............................;..............................;..............................;..............................;.............................;)](https://git.io/typing-svg)
 
 
