@@ -1,3 +1,7 @@
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+Profile;I'm+SegmaSec;Cloud+Computing+;Penetration+Testing;Morocco+Software+Engineering;Hacking+Lover+:3;Power+CTF+Lover+%3C3" alt="Not-Found"></a>
+</div>
+
 ## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=f034fd&width=435&lines=-------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BSegmaSec%5D+profile;SegmaSec@Arch+~%24+{cat,root.txt};{SW0gTm90IEhhY2tlciwgSnVzdCBIYXJkIFdvcmsK};..............................;............H4CK3D!............;..............................;..............................;..............................;..............................;.............................;)](https://git.io/typing-svg)
 
@@ -11,9 +15,6 @@ I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who'
   <a href="https://www.linkedin.com/in/elmehdi-chbani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=SegmaSec&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SegmaSec&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
