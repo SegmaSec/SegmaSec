@@ -1,10 +1,11 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Welcome+To+My+Profile;I'm+SegmaSec;Cloud+Computing+;Penetration+Testing;Morocco+Software+Engineering;Hacking+Lover+:3;Power+CTF+Lover+%3C3" alt="Not-Found"></a>
 </div>
+<div align="center">
 
 ## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=f034fd&width=435&lines=-------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BSegmaSec%5D+profile;SegmaSec@Arch+~%24+{cat,root.txt};{SW0gTm90IEhhY2tlciwgSnVzdCBIYXJkIFdvcmsK};..............................;............H4CK3D!............;..............................;..............................;..............................;..............................;.............................;)](https://git.io/typing-svg)
-
+</div>
 
 I'm a Penetration Testing 🎓 from Morocco! 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into My CTF(Capture The Flag) 🕸️ and Creating i create more tools that benefit the information society!!🤓.
 <div> 
