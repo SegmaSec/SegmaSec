@@ -21,17 +21,8 @@ Greetings! I am a seasoned Cloud Computing professional with a laser focus on Az
 </div>
 </br>
    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/>
-  <img align="center" alt="Rafa-Js" height="40" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=github,git,linux,python,bash,azure,docker,discord,neovim,powershell,openstack,php,html,css,js,redux,mongodb,vim,visualstudio,vscode,stackoverflow,emacs,c,mysql,&perline=12)](https://skillicons.dev)
 <img align="right" height="290" width="410" alt="" src="https://raw.githubusercontent.com/Its-Sn1p3r/Its-Sn1p3r/master/giphy.gif" />
-
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
@@ -42,5 +33,10 @@ Greetings! I am a seasoned Cloud Computing professional with a laser focus on Az
 - 🚀 &nbsp; I’m currently learning Offensive Security.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SegmaSec).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+  
 ### CTF Challenge Profile✨:
- <img src="https://tryhackme-badges.s3.amazonaws.com/Sk3x.png" alt="TryHackMe">
+<div display="flex">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sk3x.png" alt="TryHackMe">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SegmaSec&theme=react)
+</div>
