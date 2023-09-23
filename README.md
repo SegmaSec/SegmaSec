@@ -35,8 +35,10 @@ Greetings! I am a seasoned Cloud Computing professional with a laser focus on Az
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
   
 ### CTF Challenge Profile✨:
-<div display="flex">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sk3x.png" alt="TryHackMe">
+ <div style="display: flex;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Sk3x.png" alt="TryHackMe">
+    <a href="https://app.hackthebox.com/profile/1662200"><img src="http://www.hackthebox.eu/badge/image/1662200" alt="TryHackMe"></a>
+</div>
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SegmaSec&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SegmaSec&theme=react)
