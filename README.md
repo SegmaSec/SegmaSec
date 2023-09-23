@@ -39,4 +39,5 @@ Greetings! I am a seasoned Cloud Computing professional with a laser focus on Az
 <img src="https://tryhackme-badges.s3.amazonaws.com/Sk3x.png" alt="TryHackMe">
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SegmaSec&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SegmaSec&theme=react)
 </div>
