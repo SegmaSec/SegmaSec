@@ -32,6 +32,5 @@ Hello! I'm Harley, a passionate **Cybersecurity Professional** with a focus on *
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> CTF Challenges Profile </b>
  <div style="display: flex;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Sk3x.png" alt="TryHackMe">
-    <a href="https://app.hackthebox.com/profile/1662200"><img src="http://www.hackthebox.eu/badge/image/1662200" alt="TryHackMe"></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Harley1.png" alt="Your Image Badge" />
 </div>
