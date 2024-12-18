@@ -34,3 +34,9 @@ Hello! I'm Harley, a passionate **Cybersecurity Professional** with a focus on *
  <div style="display: flex;">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Harley1.png" alt="Your Image Badge" />
 </div>
+
+<br>
+</br>
+<a href="https://tryhackme.com/p/Harley1">
+  <img src="skills.svg" alt="Skills" >
+</a>
