@@ -1,0 +1,109 @@
+<svg id="SvgjsSvg1241" width="490" height="350" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev" class="apexcharts-svg" xmlns:data="ApexChartsNS" transform="translate(0, 0)" style="background: transparent;">
+  <g id="SvgjsG1243" class="apexcharts-inner apexcharts-graphical" transform="translate(12, 35)">
+    <defs id="SvgjsDefs1242">
+      <clipPath id="gridRectMasku35y964nh">
+        <rect id="SvgjsRect1250" width="444.5625" height="277" x="-3" y="-1" rx="0" ry="0" opacity="1" stroke-width="0" stroke="none" stroke-dasharray="0" fill="#fff"></rect>
+      </clipPath>
+      <clipPath id="forecastMasku35y964nh"></clipPath>
+      <clipPath id="nonForecastMasku35y964nh"></clipPath>
+      <clipPath id="gridRectMarkerMasku35y964nh">
+        <rect id="SvgjsRect1251" width="474.5625" height="311" x="-18" y="-18" rx="0" ry="0" opacity="1" stroke-width="0" stroke="none" stroke-dasharray="0" fill="#fff"></rect>
+      </clipPath>
+    </defs>
+    <g id="SvgjsG1312" class="apexcharts-grid">
+      <g id="SvgjsG1313" class="apexcharts-gridlines-horizontal" style="display: none;">
+        <line id="SvgjsLine1315" x1="0" y1="0" x2="438.5625" y2="0" stroke="#000000" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1316" x1="0" y1="39.285714285714285" x2="438.5625" y2="39.285714285714285" stroke="#000000" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1317" x1="0" y1="78.57142857142857" x2="438.5625" y2="78.57142857142857" stroke="#000000" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1318" x1="0" y1="117.85714285714286" x2="438.5625" y2="117.85714285714286" stroke="#000000" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1319" x1="0" y1="157.14285714285714" x2="438.5625" y2="157.14285714285714" stroke="#000000" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1320" x1="0" y1="196.42857142857142" x2="438.5625" y2="196.42857142857142" stroke="#000000" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1321" x1="0" y1="235.7142857142857" x2="438.5625" y2="235.7142857142857" stroke="#000000" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+        <line id="SvgjsLine1322" x1="0" y1="275" x2="438.5625" y2="275" stroke="#000000" stroke-dasharray="0" stroke-linecap="butt" class="apexcharts-gridline"></line>
+      </g>
+      <g id="SvgjsG1314" class="apexcharts-gridlines-vertical" style="display: none;"></g>
+      <line id="SvgjsLine1324" x1="0" y1="275" x2="438.5625" y2="275" stroke="transparent" stroke-dasharray="0" stroke-linecap="butt"></line>
+      <line id="SvgjsLine1323" x1="0" y1="1" x2="0" y2="275" stroke="transparent" stroke-dasharray="0" stroke-linecap="butt"></line>
+    </g>
+    <g id="SvgjsG1252" class="apexcharts-radar-series apexcharts-plot-series" transform="translate(219.28125, 137.5)">
+      <polygon id="SvgjsPolygon1283" points="0,-140 121.2435565298214,-70.00000000000001 121.24355652982142,69.99999999999997 1.7145055188062946e-14,140 -121.24355652982138,70.00000000000006 -121.24355652982146,-69.9999999999999 " fill="#000000" stroke="#ffffff" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1284" points="0,-120 103.92304845413263,-60.000000000000014 103.92304845413264,59.99999999999997 1.469576158976824e-14,120 -103.92304845413261,60.00000000000006 -103.92304845413268,-59.99999999999992 " fill="#000000" stroke="#ffffff" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1285" points="0,-100 86.60254037844386,-50.000000000000014 86.60254037844388,49.99999999999998 1.2246467991473532e-14,100 -86.60254037844383,50.00000000000004 -86.6025403784439,-49.999999999999936 " fill="#000000" stroke="#ffffff" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1286" points="0,-80 69.28203230275508,-40.00000000000001 69.2820323027551,39.999999999999986 9.797174393178826e-15,80 -69.28203230275507,40.000000000000036 -69.28203230275513,-39.99999999999994 " fill="#000000" stroke="#ffffff" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1287" points="0,-60 51.96152422706631,-30.000000000000007 51.96152422706632,29.999999999999986 7.34788079488412e-15,60 -51.961524227066306,30.00000000000003 -51.96152422706634,-29.99999999999996 " fill="#000000" stroke="#ffffff" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1288" points="0,-40 34.64101615137754,-20.000000000000004 34.64101615137755,19.999999999999993 4.898587196589413e-15,40 -34.641016151377535,20.000000000000018 -34.64101615137756,-19.99999999999997 " fill="#000000" stroke="#ffffff" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1289" points="0,-20 17.32050807568877,-10.000000000000002 17.320508075688775,9.999999999999996 2.4492935982947065e-15,20 -17.320508075688767,10.000000000000009 -17.32050807568878,-9.999999999999986 " fill="#000000" stroke="#ffffff" stroke-width="1"></polygon>
+      <polygon id="SvgjsPolygon1290" points="0,0 0,0 0,0 0,0 0,0 0,0 " fill="#000000" stroke="#ffffff" stroke-width="1"></polygon>
+      <line id="SvgjsLine1277" x1="0" y1="-140" x2="0" y2="0" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt"></line>
+      <line id="SvgjsLine1278" x1="121.2435565298214" y1="-70.00000000000001" x2="0" y2="0" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt"></line>
+      <line id="SvgjsLine1279" x1="121.24355652982142" y1="69.99999999999997" x2="0" y2="0" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt"></line>
+      <line id="SvgjsLine1280" x1="1.7145055188062946e-14" y1="140" x2="0" y2="0" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt"></line>
+      <line id="SvgjsLine1281" x1="-121.24355652982138" y1="70.00000000000006" x2="0" y2="0" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt"></line>
+      <line id="SvgjsLine1282" x1="-121.24355652982146" y1="-69.9999999999999" x2="0" y2="0" stroke="#ffffff" stroke-dasharray="0" stroke-linecap="butt"></line>
+      <g id="SvgjsG1291" class="apexcharts-xaxis">
+        <text id="SvgjsText1292" font-family="Helvetica, Arial, sans-serif" x="0" y="-150" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="0" cy="-150" style="font-family: Helvetica, Arial, sans-serif;">Linux</text>
+        <text id="SvgjsText1293" font-family="Helvetica, Arial, sans-serif" x="131.2435565298214" y="-70.00000000000001" text-anchor="start" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="131.2435565298214" cy="-70.00000000000001" style="font-family: Helvetica, Arial, sans-serif;">
+          <tspan id="SvgjsTspan1294">Web</tspan>
+          <tspan id="SvgjsTspan1295" dy="14.3" x="131.2435565298214">Exploitation</tspan>
+        </text>
+        <text id="SvgjsText1296" font-family="Helvetica, Arial, sans-serif" x="131.24355652982143" y="69.99999999999997" text-anchor="start" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="131.24355652982143" cy="69.99999999999997" style="font-family: Helvetica, Arial, sans-serif;">
+          <tspan id="SvgjsTspan1297">Windows</tspan>
+          <tspan id="SvgjsTspan1298" dy="14.3" x="131.24355652982143">Exploitation</tspan>
+        </text>
+        <text id="SvgjsText1299" font-family="Helvetica, Arial, sans-serif" x="1.7145055188062946e-14" y="150" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="1.7145055188062946e-14" cy="150" style="font-family: Helvetica, Arial, sans-serif;">Fundamentals</text>
+        <text id="SvgjsText1300" font-family="Helvetica, Arial, sans-serif" x="-131.24355652982138" y="70.00000000000006" text-anchor="end" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="-131.24355652982138" cy="70.00000000000006" style="font-family: Helvetica, Arial, sans-serif;">
+          <tspan id="SvgjsTspan1301">Privilege</tspan>
+          <tspan id="SvgjsTspan1302" dy="14.3" x="-131.24355652982138">Escalation</tspan>
+        </text>
+        <text id="SvgjsText1303" font-family="Helvetica, Arial, sans-serif" x="-131.24355652982146" y="-69.9999999999999" text-anchor="end" dominant-baseline="auto" font-size="11px" font-weight="400" fill="#ffffff" class="apexcharts-datalabel" cx="-131.24355652982146" cy="-69.9999999999999" style="font-family: Helvetica, Arial, sans-serif;">
+          <tspan id="SvgjsTspan1304">Network</tspan>
+          <tspan id="SvgjsTspan1305" dy="14.3" x="-131.24355652982146">Exploitation</tspan>
+        </text>
+      </g>
+      <g id="SvgjsG1254" class="apexcharts-series" data:longestSeries="true" seriesName="" rel="1" data:realIndex="0">
+        <path id="SvgjsPath1257" d="M 0 -132.99999999999997L 0 -132.99999999999997L 94.56997409326068 -54.60000000000001L 38.797938089542846 22.399999999999984L 1.0115582560957136e-14 82.6L -96.99484522385708 56.00000000000004L -89.72023183206787 -51.79999999999992Z" fill="none" fill-opacity="1" stroke="#6b00f6" stroke-opacity="1" stroke-linecap="butt" stroke-width="2" stroke-dasharray="0" class="apexcharts-radar" index="0" pathTo="M 0 -132.99999999999997L 0 -132.99999999999997L 94.56997409326068 -54.60000000000001L 38.797938089542846 22.399999999999984L 1.0115582560957136e-14 82.6L -96.99484522385708 56.00000000000004L -89.72023183206787 -51.79999999999992Z" pathFrom="M 0 0"></path>
+        <path id="SvgjsPath1258" d="M 0 -132.99999999999997L 0 -132.99999999999997L 94.56997409326068 -54.60000000000001L 38.797938089542846 22.399999999999984L 1.0115582560957136e-14 82.6L -96.99484522385708 56.00000000000004L -89.72023183206787 -51.79999999999992Z" fill="rgb(189, 67, 209,0.2)" fill-opacity="1" stroke-opacity="1" stroke-linecap="butt" stroke-width="0" stroke-dasharray="0" class="apexcharts-radar" index="0" pathTo="M 0 -132.99999999999997L 0 -132.99999999999997L 94.56997409326068 -54.60000000000001L 38.797938089542846 22.399999999999984L 1.0115582560957136e-14 82.6L -96.99484522385708 56.00000000000004L -89.72023183206787 -51.79999999999992Z" pathFrom="M 0 0"></path>
+        <g id="SvgjsG1255" class="apexcharts-series-markers-wrap">
+          <g id="SvgjsG1260" class="apexcharts-series-markers">
+            <circle id="SvgjsCircle1259" r="4" cx="0" cy="-132.99999999999997" class="apexcharts-marker" stroke="#6b00f6" fill="#000000" fill-opacity="1" stroke-width="2" stroke-opacity="1" rel="0" j="0" index="0" default-marker-size="4"></circle>
+          </g>
+          <g id="SvgjsG1263" class="apexcharts-series-markers">
+            <circle id="SvgjsCircle1262" r="4" cx="94.56997409326068" cy="-54.60000000000001" class="apexcharts-marker" stroke="#6b00f6" fill="#000000" fill-opacity="1" stroke-width="2" stroke-opacity="1" rel="1" j="1" index="0" default-marker-size="4"></circle>
+          </g>
+          <g id="SvgjsG1266" class="apexcharts-series-markers">
+            <circle id="SvgjsCircle1265" r="4" cx="38.797938089542846" cy="22.399999999999984" class="apexcharts-marker" stroke="#6b00f6" fill="#000000" fill-opacity="1" stroke-width="2" stroke-opacity="1" rel="2" j="2" index="0" default-marker-size="4"></circle>
+          </g>
+          <g id="SvgjsG1269" class="apexcharts-series-markers">
+            <circle id="SvgjsCircle1268" r="4" cx="1.0115582560957136e-14" cy="82.6" class="apexcharts-marker" stroke="#6b00f6" fill="#000000" fill-opacity="1" stroke-width="2" stroke-opacity="1" rel="3" j="3" index="0" default-marker-size="4"></circle>
+          </g>
+          <g id="SvgjsG1272" class="apexcharts-series-markers">
+            <circle id="SvgjsCircle1271" r="4" cx="-96.99484522385708" cy="56.00000000000004" class="apexcharts-marker" stroke="#6b00f6" fill="#000000" fill-opacity="1" stroke-width="2" stroke-opacity="1" rel="4" j="4" index="0" default-marker-size="4"></circle>
+          </g>
+          <g id="SvgjsG1275" class="apexcharts-series-markers">
+            <circle id="SvgjsCircle1274" r="4" cx="-89.72023183206787" cy="-51.79999999999992" class="apexcharts-marker" stroke="#6b00f6" fill="#000000" fill-opacity="1" stroke-width="2" stroke-opacity="1" rel="5" j="5" index="0" default-marker-size="4"></circle>
+          </g>
+        </g>
+      </g>
+      <g id="SvgjsG1253" class="apexcharts-yaxis"></g>
+      <g id="SvgjsG1256" class="apexcharts-datalabels" data:realIndex="0">
+        <rect id="SvgjsRect1306" width="20.25" height="14" x="-10.125" y="-144" rx="2" ry="2" opacity="0.9" stroke="#ffffff" stroke-width="1" stroke-dasharray="0" fill="#8E09DB"></rect>
+        <text id="SvgjsText1261" font-family="Helvetica, Arial, sans-serif" x="0" y="-132.99999999999997" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="600" fill="#fff" class="apexcharts-datalabel" cx="0" cy="-132.99999999999997" style="font-family: Helvetica, Arial, sans-serif;">95</text>
+        <rect id="SvgjsRect1307" width="20.25" height="14" x="84.44497680664062" y="-65.5999984741211" rx="2" ry="2" opacity="0.9" stroke="#ffffff" stroke-width="1" stroke-dasharray="0" fill="#8E09DB"></rect>
+        <text id="SvgjsText1264" font-family="Helvetica, Arial, sans-serif" x="94.56997409326068" y="-54.60000000000001" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="600" fill="#fff" class="apexcharts-datalabel" cx="94.56997409326068" cy="-54.60000000000001" style="font-family: Helvetica, Arial, sans-serif;">81</text>
+        <rect id="SvgjsRect1308" width="20.25" height="14" x="28.67293930053711" y="11.399999618530273" rx="2" ry="2" opacity="0.9" stroke="#ffffff" stroke-width="1" stroke-dasharray="0" fill="#8E09DB"></rect>
+        <text id="SvgjsText1267" font-family="Helvetica, Arial, sans-serif" x="38.797938089542846" y="22.399999999999984" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="600" fill="#fff" class="apexcharts-datalabel" cx="38.797938089542846" cy="22.399999999999984" style="font-family: Helvetica, Arial, sans-serif;">32</text>
+        <rect id="SvgjsRect1309" width="20.25" height="14" x="-10.125" y="71.5999984741211" rx="2" ry="2" opacity="0.9" stroke="#ffffff" stroke-width="1" stroke-dasharray="0" fill="#8E09DB"></rect>
+        <text id="SvgjsText1270" font-family="Helvetica, Arial, sans-serif" x="1.0115582560957136e-14" y="82.6" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="600" fill="#fff" class="apexcharts-datalabel" cx="1.0115582560957136e-14" cy="82.6" style="font-family: Helvetica, Arial, sans-serif;">59</text>
+        <rect id="SvgjsRect1310" width="20.25" height="14" x="-107.11984252929688" y="45" rx="2" ry="2" opacity="0.9" stroke="#ffffff" stroke-width="1" stroke-dasharray="0" fill="#8E09DB"></rect>
+        <text id="SvgjsText1273" font-family="Helvetica, Arial, sans-serif" x="-96.99484522385708" y="56.00000000000004" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="600" fill="#fff" class="apexcharts-datalabel" cx="-96.99484522385708" cy="56.00000000000004" style="font-family: Helvetica, Arial, sans-serif;">80</text>
+        <rect id="SvgjsRect1311" width="21.11767578125" height="14" x="-99.84523010253906" y="-62.79999923706055" rx="2" ry="2" opacity="0.9" stroke="#ffffff" stroke-width="1" stroke-dasharray="0" fill="#8E09DB"></rect>
+        <text id="SvgjsText1276" font-family="Helvetica, Arial, sans-serif" x="-89.72023183206787" y="-51.79999999999992" text-anchor="middle" dominant-baseline="auto" font-size="11px" font-weight="600" fill="#fff" class="apexcharts-datalabel" cx="-89.72023183206787" cy="-51.79999999999992" style="font-family: Helvetica, Arial, sans-serif;">74</text>
+      </g>
+    </g>
+    <g id="SvgjsG1327" class="apexcharts-yaxis-annotations"></g>
+    <g id="SvgjsG1328" class="apexcharts-xaxis-annotations"></g>
+    <g id="SvgjsG1329" class="apexcharts-point-annotations"></g>
+  </g>
+  <text id="SvgjsText1245" font-family="Helvetica, Arial, sans-serif" x="10" y="16.5" text-anchor="start" dominant-baseline="auto" font-size="14px" font-weight="900" fill="#373d3f" class="apexcharts-title-text" style="font-family: Helvetica, Arial, sans-serif; opacity: 1;"></text>
+  <g id="SvgjsG1244" class="apexcharts-annotations"></g>
+</svg>
